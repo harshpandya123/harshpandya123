@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwaJaoARVtQYKAcv6DA9iwl8d8QBFXaVl3fUcnRBqdAH1oC25LycZ2dNKPwVtz-JYPlUo&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead](https://www.pngfind.com/pngs/m/170-1704517_as-compared-to-a-decade-ago-website-development.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harsh Pandya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width"600" src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
